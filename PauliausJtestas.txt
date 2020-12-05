@@ -2,3 +2,4 @@ Paulius kuria failą
 O Šioje eilutėje bus kuriamas konfliktas. Žiaurus konfliktas čia turėtų būti
 O Šioje eilutėje bus kuriamas konfliktas. Baisus konfliktas
 Kuriu konfliktą skirtingų brancjų sujungimui
+Laura nori konflikto
